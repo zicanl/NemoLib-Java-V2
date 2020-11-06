@@ -1,4 +1,5 @@
 package edu.uwb.nemolib;
+
 import java.io.Serializable;
 
 /**
@@ -6,7 +7,7 @@ import java.io.Serializable;
  * network graph.
  * Avoid to have zero index 8/23/2018
  */
-class AdjacencyList implements Serializable{
+class AdjacencyList implements Serializable {
 
     private CompactHashSet nodes;
 
