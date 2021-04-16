@@ -19,7 +19,7 @@ in the `target` subdirectory containing the nemolib library. Any classes
 which implement nemolib should use the statement `import edu.uwb.nemolib;`.
 
 
-git clone https://github.com/Kimw6/NemoLib-Java-V2/
+git clone https://github.com/zicanl/NemoLib-Java-V2.git
 
 cd NemoLib-Java-V2/nemolib-master
 
@@ -34,7 +34,7 @@ http://preshing.com/20141108/how-to-install-the-latest-gcc-on-windows/
  From the path variable, add C:\Cygwin64\bin (for 64 bit) or (3)	C:\cygwin\bin (for 32 bit)
  
 * NemoLib install
-  From https://github.com/Kimw6/NemoLib-Java-V2/
+  From https://github.com/zicanl/NemoLib-Java-V2
   Download NemoLib as zip file.
   Open the project in the NetBeans, build the library.
   With default setting, the library is, nemolib-master/target/ nemolib-0.1-SNAPSHOT.jar
@@ -42,7 +42,7 @@ http://preshing.com/20141108/how-to-install-the-latest-gcc-on-windows/
 Example Program (testing the library)
 ---------------
 An example program can be found at 
-https://github.com/Kimw6/NemoLib-Java-V2-Testing
+https://github.com/Kimw6/NemoLib-Java-V2-Testing (follow the instructions of setting up the test environment, and copy the NemoMapBuilderTest.java to the text program and run the NemoMapBuilderTest.java as the main text file.)
 
 The example java main file can be also found at 
 /src/main/java/edu/uwb/nemolib_examples/network_motif_detector/
